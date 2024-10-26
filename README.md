@@ -1,1 +1,1 @@
-# SQL-Benchmark-Set
+# SQL Benchmarks Setup
